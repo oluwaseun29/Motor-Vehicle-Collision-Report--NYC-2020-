@@ -39,6 +39,8 @@ Interactive Filters( Street Name ,Month,Hour, collision.
 
 
 Dashboard Preview 
+<img width="1215" height="673" alt="17829215721611695805987258907192" src="https://github.com/user-attachments/assets/655f5628-6744-401f-873f-76b282f9c5ee" />
+
 
 
 Insight 
