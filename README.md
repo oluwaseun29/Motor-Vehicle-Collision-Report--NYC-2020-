@@ -36,10 +36,9 @@ Monthly Accident Trend
 Hourly Accident Distribution 
 Interactive Filters( Street Name ,Month,Hour, collision.
 
+Dashboard preview 
 
 
-Dashboard Preview 
-<img width="1215" height="673" alt="17829215721611695805987258907192" src="https://github.com/user-attachments/assets/655f5628-6744-401f-873f-76b282f9c5ee" /
 <img width="1261" height="625" alt="17832667298686633585836617120549" src="https://github.com/user-attachments/assets/854eaec1-bb54-447b-a853-c0db64d6086b" />
 
 
