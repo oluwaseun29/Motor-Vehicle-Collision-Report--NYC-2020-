@@ -37,6 +37,8 @@ Hourly Accident Distribution
 Interactive Filters( Street Name ,Month,Hour, collision.
 
 Dashboard preview 
+<img width="1215" height="673" alt="17832671102712198806227949276049" src="https://github.com/user-attachments/assets/ccf7b9d8-4335-4b69-bef8-24dab47779bf" />
+
 
 
 <img width="1261" height="625" alt="17832667298686633585836617120549" src="https://github.com/user-attachments/assets/854eaec1-bb54-447b-a853-c0db64d6086b" />
